@@ -1,0 +1,57 @@
+block {
+    padding: 60px;
+    max-width: 1170px;
+}
+.block__item {
+    margin: 10px 10px 10px 10px;
+}
+.sguare {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+    padding: 100px;
+    border-radius: 10%;
+    color: rgb(102, 255, 0);
+    text-align: center;
+    font-size: 50px;
+    line-height: 185px;
+}
+.circle {
+width: 200px;
+height: 200px;
+background-color: chartreuse;
+margin: 10px;
+padding: 100px;
+border-radius: 50%;
+color: red;
+text-align: center;
+font-size: 50px;
+line-height: 185px;
+}
+.oval {
+    width: 350px;
+    height: 160px;
+    background-color: green;
+    margin: 10px;
+    padding: 100px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 50px;
+    line-height: 170px;
+    color: rgb(131, 213, 240);
+
+
+}
+.rectangle {
+    width: 350px;
+    height: 160px;
+    background-color: darkblue;
+    margin: 10px;
+    padding: 100px;
+    border-radius: 10%;
+    color: rgb(255, 217, 0);
+    text-align: center;
+    line-height: 160px;
+    font-size: 40px;
+}
