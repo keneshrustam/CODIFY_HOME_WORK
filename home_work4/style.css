@@ -22,11 +22,13 @@
     margin-left: 126px;
 }
 
+.bar-line-left {
+    width: 50%;
+}
+
 .bar-line {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    height: 100%;
 }
 
 
