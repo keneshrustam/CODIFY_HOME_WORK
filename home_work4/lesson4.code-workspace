@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../js13/lesson4"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home_work4"
+	}
+}
