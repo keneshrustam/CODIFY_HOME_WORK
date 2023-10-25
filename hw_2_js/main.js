@@ -1,7 +1,7 @@
 
 console.log('task1')
 
-const age = 18
+const age = 19
 
 if (age >= 18) {
 console.log("Совершеннолетний")
