@@ -1,0 +1,164 @@
+@media screen and (max-width: 1400px) and (min-width: 1200px) {
+    .kesha_togolok {
+     width: 100px;
+    height: 50px;
+    background-color: rgb(218, 234, 38);
+}
+    .kesha_pugol {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(222, 136, 6);
+}
+    .kesha_kvadrat {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(175, 12, 12);
+}
+    .kesha_3ugol {
+    width: 70px;
+    height: 120px;
+    border-radius: 30%;
+    background-color: rgb(32, 82, 219);
+}
+    .kesha_oval {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(20, 84, 157);
+}
+}
+
+@media screen and (max-width: 1200px) and (min-width: 900px) {
+    .kesha_3ugol {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(65, 20, 179);
+    }
+    .kesha_togolok {
+     width: 0;
+     height: 0;
+     border-left: 50px solid transparent;
+     border-right: 50px solid transparent;
+     border-bottom: 100px solid rgb(237, 23, 169);
+}
+    .kesha_kvadrat {
+    width: 100px;
+    height: 100px;
+    background-color: #d42f2f;
+}
+    .kesha_pugol {
+    width: 70px;
+    height: 120px;
+    border-radius: 30%;
+    background-color: rgb(11, 211, 188);
+}
+    .kesha_oval {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(227, 83, 16);
+}
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+    .kesha_pugol {
+     border-radius: 100%;
+     width: 100px;
+     height: 100px;
+     background-color: rgb(31, 187, 19);
+    }
+    .kesha_togolok {
+     width: 100px;
+     height: 50px;
+     background-color: rgb(26, 83, 175);
+    }
+    .kesha_kvadrat {
+     width: 70px;
+     height: 120px;
+     border-radius: 30%;
+     background-color: rgb(24, 214, 94);
+    }
+    .kesha_3ugol {
+     width: 0;
+     height: 0;
+     border-left: 50px solid transparent;
+     border-right: 50px solid transparent;
+     border-bottom: 100px solid rgb(20, 214, 253);
+    }
+
+.kesha_oval {
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+}
+}
+
+@media screen and (max-width: 600px) and (min-width: 400px) {
+    .kesha_kvadrat {
+        width: 100px;
+        height: 100px;
+        background-color: #8f54c6;
+    }
+     .kesha_togolok {
+        border-radius: 100%;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(129, 104, 67);
+    }
+     .kesha_3ugol {
+        width: 0;
+        height: 0;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        border-bottom: 100px solid rgb(222, 41, 225);
+    } 
+    .kesha_pugol {
+        width: 100px;
+        height: 50px;
+        background-color: rgb(39, 65, 179);
+}
+.kesha_oval {
+    width: 50px;
+    height: 100px;
+    border-radius: 30%;
+    background-color: rgb(183, 65, 54);
+}
+}
+
+@media screen and (max-width: 400px) and (min-width: 0px) {
+    .kesha_oval {
+    width: 100px;
+    height: 100px;
+    background-color: #47e0e0;
+ }
+ .kesha_3ugol {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(208, 192, 71);
+}
+.kesha_togolok {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(8, 227, 26);
+}
+.kesha_pugol {  
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(136, 103, 42);
+}
+.kesha_kvadrat {
+width: 50px;
+    height: 100px;
+    border-radius: 30%;
+    background-color: rgb(180, 66, 43);
+}
+}
+
+body{
+    background-color: red;
+}

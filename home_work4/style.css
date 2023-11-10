@@ -1,0 +1,89 @@
+.top-bar {
+    position: fixed;
+    width: 100%;
+    height: 4%;
+    background-image: url("Rectangle.png");
+    padding : 1%;
+    justify-content: space-between;
+}
+
+
+.top-bar-сlone {
+    position: static;
+    visibility: hidden;
+    width: 100%;
+    height: 6%;
+}
+
+.bar-line-right {
+    width: 431px;
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 126px;
+}
+
+.bar-line-left {
+    width: 50%;
+}
+
+.bar-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h4 {
+    font-family:  sans-serif;
+    width: 170px;
+    height: 10px;
+    margin-top: 31px;
+    margin-left: 42px;
+}
+
+
+body {
+    width: 20;
+    height: 30px;
+    top: 31px;
+    left: 42px;
+    margin: 0;
+    min-height: 100vh;
+    background-color: rgb(251, 255, 255);
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+    
+
+.Email {
+color: gray;
+}
+
+.Password{
+    color: grey;
+    
+}
+
+.design {
+    color: white;
+    background-color: blue;
+    width: 429px;
+    height: 53px;
+    margin-top: 20px;
+    flex-shrink: 0;
+    border-radius: 32px;
+    box-shadow: 0px 4px 26px 0px rgba(0, 0, 0, 0.25);
+
+}
+.continue {
+    color: #6f6f6f ;
+
+font-family: sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 170px;
+
+}
